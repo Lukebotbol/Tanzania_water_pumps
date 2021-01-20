@@ -1,0 +1,4 @@
+#00939C - Darkblue - functional
+#A2D4D7 - Light blue - functional needs repair
+#BABABA - Grey - NaN
+#C22E00 - Dark red - non functional
